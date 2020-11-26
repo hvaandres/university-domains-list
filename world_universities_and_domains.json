@@ -48234,6 +48234,30 @@
     "country": "Mexico"
   },
   {
+    "web_pages": ["https://www.tijuana.tecnm.mx/"],
+    "name": "Instituto Technologico de Tijuana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": ["tijuana.tecnm.mx"],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": ["https://www.chapala.tecmm.edu.mx/"],
+    "name": "Instituto Technologico de Cahapala",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": ["chapala.tecmm.edu.mx"],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": ["http://www.itcg.edu.mx/"],
+    "name": "Instituto Technologico de Ciudad Guzman",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": ["itcg.edu.mx"],
+    "country": "Mexico"
+  },
+  {
     "web_pages": ["http://bajio.delasalle.edu.mx/"],
     "name": "Universidad de La Salle, Bajío",
     "alpha_two_code": "MX",
